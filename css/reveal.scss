@@ -13,6 +13,20 @@
  * GLOBAL STYLES
  *********************************************/
 
+.footnote {
+	position: fixed;
+	bottom: 10px;
+	width: 100%;
+	text-align: left;
+	color: #888;
+}
+
+.enclosed-image {
+	width: 540px;
+	border-radius: 30px;
+	border: 5px solid #3498db;
+}
+
 html.reveal-full-page {
 	width: 100%;
 	height: 100%;
